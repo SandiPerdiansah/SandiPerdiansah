@@ -64,7 +64,9 @@ alt="sandi perdiansah"  />
 <br/>
 
 ## To Open Source -
-[![Tugasku](https://github-readme-stats.vercel.app/api/pin/?username=sandiperdiansah&repo=tugasku&border_color=38c7bc&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sandiperdiansah/tugasku)
+[![Wedding Invitation](https://github-readme-stats.vercel.app/api/pin/?username=sandiperdiansah&repo=wedding-invitation&border_color=38c7bc&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sandiperdiansah/wedding-invitation)
+
+[![Website Projects](https://github-readme-stats.vercel.app/api/pin/?username=sandiperdiansah&repo=website-projects&border_color=38c7bc&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sandiperdiansah/website-projects)
 
 <p align="left">
   <a href="https://github.com/sandiperdiansah?tab=repositories" target="_blank">
