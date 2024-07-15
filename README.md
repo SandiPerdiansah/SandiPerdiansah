@@ -41,7 +41,6 @@ alt="sandi perdiansah"  />
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: sandiperdiansah95@gmail.com<br/><br/>
-  💬 &emsp; Ask me about anything [here](https://github.com/sandiperdiansah/sandiperdiansah/issues)
 </p>
 
 <br/>
@@ -66,12 +65,8 @@ alt="sandi perdiansah"  />
 
 <br/>
 
-## Latest Repository -
+## To Open Source -
 [![Tugasku](https://github-readme-stats.vercel.app/api/pin/?username=sandiperdiansah&repo=tugasku&border_color=38c7bc&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sandiperdiansah/tugasku)
-
-[![Wedding Invitation](https://github-readme-stats.vercel.app/api/pin/?username=sandiperdiansah&repo=undangan_pernikahan&border_color=38c7bc&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sandiperdiansah/undangan_pernikahan)
-
-[![Sandi Perdiansah Readme](https://github-readme-stats.vercel.app/api/pin/?username=sandiperdiansah&repo=sandiperdiansah&border_color=38c7bc&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sandiperdiansah/sandiperdiansah)
 
 <p align="left">
   <a href="https://github.com/sandiperdiansah?tab=repositories" target="_blank">
