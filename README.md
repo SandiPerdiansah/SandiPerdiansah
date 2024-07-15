@@ -37,9 +37,7 @@ alt="sandi perdiansah"  />
 <!-- About Section -->
  # About me
  
-<p>
- <img align="right" width="350" src="./assets/programmer.gif" alt="programmer gif" />
-  
+<p>  
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: sandiperdiansah95@gmail.com<br/><br/>
