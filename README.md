@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sandi Perdiansah!
 
-I am a student who needs to study
+I am Frontend Developer
 
 ## About Me :
 🌱 I’m learning and exploring new technologies  
