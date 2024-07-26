@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sandi Perdiansah!
 
-I am Frontend Developer
+I am students who needs study
 
 ## About Me :
 🌱 I’m learning and exploring new technologies  
@@ -33,7 +33,6 @@ I am Frontend Developer
 ## GitHub Stats :
 <div style="border: 2px solid #38c7bc; padding: 10px; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=sandiperdiansah&show_icons=true&count_private=true&theme=react&border_color=38c7bc&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" style="border-radius: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandiperdiansah&langs_count=8&layout=compact&theme=react&border_color=38c7bc&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" style="border-radius: 10px;"/>
 </div>
 
 ## Connect With Me :
